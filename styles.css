@@ -44,4 +44,13 @@ nav ul li a:hover{
     transition: scale(1.1);
 }
 
-
+header {
+    background-color: #7a4f3a;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
