@@ -139,6 +139,25 @@ section h2 {
     margin-bottom: 10px;
 }
 
+.frente h3 {
+    font-size: 1rem;
+    color: #3b2a1a;
+    letter-spacing: 1px;
+}
+
+.reverso h3 {
+    font-size: 1rem;
+    color: #f4a7b9;
+    margin-bottom: 10px;
+    letter-spacing: 1px;
+}
+
+.reverso p {
+    font-size: 0.8rem;
+    color: #fdf6ec;
+    margin-bottom: 5px;
+    text-align: center;
+}
 
 
 
